@@ -1,1 +1,1 @@
-# Karan programming challenges
+# Project Euler problems
